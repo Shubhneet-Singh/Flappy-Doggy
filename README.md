@@ -3,7 +3,7 @@
 A one-tap arcade flyer where a very determined dog just wants to get through a house full of vacuum cleaners.
 
 ## 🎮 Play Now
-👉 [Play the game here]( )
+👉 [Play the game here](https://shubhneet-singh.github.io/Flappy-Doggy/)
 
 ## Features
 - 🐶 Simple one-tap flap controls
